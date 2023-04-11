@@ -10,3 +10,4 @@ plt.plot(s)
 plt.show()
 
 print(s)
+print(data)
