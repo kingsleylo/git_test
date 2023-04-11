@@ -11,3 +11,6 @@ plt.show()
 
 print(s)
 print(data)
+
+d=s*np.pi
+print(s)
