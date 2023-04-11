@@ -8,3 +8,5 @@ s=np.sin(data)
 
 plt.plot(s)
 plt.show()
+
+print(s)
