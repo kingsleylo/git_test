@@ -11,7 +11,8 @@ plt.show()
 
 print(s)
 print(data)
-
+print("jstut")
 d=s*np.pi
 print(s)
 print("hello")
+print("f")
