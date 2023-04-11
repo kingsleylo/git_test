@@ -14,5 +14,5 @@ print(data)
 print("jstut")
 d=s*np.pi
 print(s)
-print("hello")
-print("fs")
+print("hello1")
+print("f1s")
